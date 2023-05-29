@@ -1,12 +1,14 @@
 # multimessenger-lensing
 A parent repository that holds submodules that are used in Utrecht-CUHK multimessenger lensing projects. 
 
-Rules: Keep it simple and documentation short.
+Slack: 
+Contact: 
 
-Packages in alphabetical order (keep short):
+**Rules**: Keep it simple and documentation short. 
 
-**gwsnr**: Software for computing the signal-to-noise ratio (SNR) of a given binary system fast.
-Example use-cases: Compute the signal-to-noise ratio and pdet of a given binary compact object system.
+*Packages in alphabetical order (keep short):*__
+**gwsnr**: Software for computing the signal-to-noise ratio (SNR) of a given binary system fast.__
+Example use-cases: Compute the signal-to-noise ratio and pdet of a given binary compact object system.__
 Dependencies: N/A
 
 **LeR**: Software for statistical modeling of gravitational-wave lensing. 
