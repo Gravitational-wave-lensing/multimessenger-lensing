@@ -4,3 +4,6 @@
 [submodule "gwsnr"]
 	path = gwsnr
 	url = https://github.com/hemantaph/gwsnr.git
+[submodule "golum"]
+	path = golum
+	url = https://git.ligo.org/justin.janquart/golum
