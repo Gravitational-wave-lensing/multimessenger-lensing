@@ -1,6 +1,8 @@
 # multimessenger-lensing
 A parent repository that holds submodules that are used in Utrecht-CUHK multimessenger lensing projects. 
 
+**How to clone**: Either `git clone git@github.com:Gravitational-wave-lensing/multimessenger-lensing.git && git submodule update --init --recursive` or `git clone --recurse-submodules git@github.com:Gravitational-wave-lensing/multimessenger-lensing.git`
+
 **Slack**: [link](https://join.slack.com/t/multimessengerlensing/shared_invite/zt-1w4bh5s42-V7O0WpTt3mFa1Lk2aEr2Dg) 
 
 **Rules**: Keep it simple and documentation short. 
