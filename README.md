@@ -9,8 +9,8 @@ A parent repository that holds submodules that are used in Utrecht-CUHK multimes
 
 *Packages in alphabetical order (keep short):*\
 **Golum**: Software for strong lensing parameter estimation with injections and real gravitational-wave data.\
-*Example use-cases*: (1) Using two or more gravitational waves, estimate the Bayes factor and Odds ratio to quantify if the event is strongly lensed; (2) estimate the joint posterior distribution of both ; (3) perform simulated parameter estimation with simulated, strongly lensed gravitational waves. \
-*Dependencies*: Uses *LeR* to estimate the posterior Odds, the prior distribution of parameters, and . \
+*Example use-cases*: (1) Using two or more gravitational waves, estimate the Bayes factor and Odds ratio to quantify if the event is strongly lensed; (2) estimate the joint posterior distribution of N gravitational-wave images; (3) perform simulated parameter estimation with simulated, strongly lensed gravitational waves. \
+*Dependencies*: Uses *LeR* to estimate the posterior Odds, the prior distribution of parameters, and draw injections. \
 *Methodology*: https://arxiv.org/abs/2105.04536, https://arxiv.org/abs/2304.12148
 
 **gwsnr**: Software for computing the signal-to-noise ratio (SNR) of a given binary system fast.\
