@@ -7,3 +7,6 @@
 [submodule "golum"]
 	path = golum
 	url = https://git.ligo.org/justin.janquart/golum
+[submodule "projects/strong-lensing-odds-ratio"]
+	path = projects/strong-lensing-odds-ratio
+	url = git@github.com:ohannuks/strong-lensing-odds-ratio.git
