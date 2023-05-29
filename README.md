@@ -1,8 +1,7 @@
 # multimessenger-lensing
 A parent repository that holds submodules that are used in Utrecht-CUHK multimessenger lensing projects. 
 
-**Slack**: \
-**Contact**: 
+**Slack**: [link](https://join.slack.com/t/multimessengerlensing/shared_invite/zt-1w4bh5s42-V7O0WpTt3mFa1Lk2aEr2Dg) 
 
 **Rules**: Keep it simple and documentation short. 
 
