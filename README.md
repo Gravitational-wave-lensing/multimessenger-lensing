@@ -5,4 +5,6 @@ Packages in alphabetical order (keep short):
 
 LeR: Software for statistical modeling of gravitational-wave lensing. 
 Example use-cases: (1) Compute the rate of strong lensing for a given binary black hole population model and galaxy lens population model; (2) create strong lensing injections; (3) estimate the strong lensing posterior Odds.
+Dependencies: Uses gwsnr for fast signal-to-noise ratio (SNR) computation.
+
 
