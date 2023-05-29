@@ -1,3 +1,6 @@
 [submodule "ler"]
 	path = ler
-	url = git@git.ligo.org:hemantakumar.phurailatpam/ler.git
+	url = git@github.com:hemantaph/ler.git
+[submodule "gwsnr"]
+	path = gwsnr
+	url = https://github.com/hemantaph/gwsnr.git
