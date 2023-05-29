@@ -6,9 +6,9 @@ Contact:
 
 **Rules**: Keep it simple and documentation short. 
 
-*Packages in alphabetical order (keep short):*__
-**gwsnr**: Software for computing the signal-to-noise ratio (SNR) of a given binary system fast.__
-Example use-cases: Compute the signal-to-noise ratio and pdet of a given binary compact object system.__
+*Packages in alphabetical order (keep short):*\
+**gwsnr**: Software for computing the signal-to-noise ratio (SNR) of a given binary system fast.\
+Example use-cases: Compute the signal-to-noise ratio and pdet of a given binary compact object system.\
 Dependencies: N/A
 
 **LeR**: Software for statistical modeling of gravitational-wave lensing. 
